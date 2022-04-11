@@ -1,6 +1,5 @@
 from shutil import move
 
-
 print("Tic Tac Toe")
 row1=[" "," "," "]
 row2=[" "," "," "]
